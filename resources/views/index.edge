@@ -1,0 +1,24 @@
+@layout('template')
+
+@section('konten')
+<br><br><br><br><br>
+    <table class="bordered highlight striped responsive-table">
+    <thead>
+        <tr>
+            <td>Nama</td>
+            <td>Hari</td>
+            <td>Kelas</td>
+        </tr>
+    </thead>
+<tbody>
+    @each(data in jadwal)
+        <tr>
+            <td>{{ data.nama }}</td>
+            <td>{{ data.hari }}</td>
+            <td>{{ data.kelas }}</td>
+        </tr>
+    @endeach
+    </tbody>
+    </table>
+
+@endsection

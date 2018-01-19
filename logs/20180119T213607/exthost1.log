@@ -1,0 +1,26 @@
+[2018-01-19 21:36:13.064] [exthost1] [info] extension host started
+[2018-01-19 21:36:13.102] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-01-19 21:36:13.102] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-01-19 21:36:13.402] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-01-19 21:36:13.402] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-01-19 21:36:13.760] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-01-19 21:36:13.760] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-01-19 21:36:13.875] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"activationEvent":"*"}
+[2018-01-19 21:36:13.875] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2018-01-19 21:36:14.240] [exthost1] [info] eager extensions activated
+[2018-01-19 21:36:26.680] [exthost1] [info] extension host started
+[2018-01-19 21:36:26.713] [exthost1] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"activationEvent":"*"}
+[2018-01-19 21:36:26.713] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/emmet/out/extension
+[2018-01-19 21:36:26.831] [exthost1] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"activationEvent":"*"}
+[2018-01-19 21:36:26.831] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/git/out/main
+[2018-01-19 21:36:27.019] [exthost1] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"activationEvent":"*"}
+[2018-01-19 21:36:27.019] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/merge-conflict/out/extension
+[2018-01-19 21:36:27.064] [exthost1] [info] ExtensionService#_doActivateExtension formulahendry.terminal {"startup":true,"activationEvent":"*"}
+[2018-01-19 21:36:27.064] [exthost1] [info] ExtensionService#loadCommonJSModule /root/.vscode/extensions/formulahendry.terminal-0.0.10/out/src/extension
+[2018-01-19 21:36:27.124] [exthost1] [info] eager extensions activated
+[2018-01-19 21:37:42.120] [exthost1] [info] ExtensionService#_doActivateExtension vscode.javascript {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-01-19 21:37:42.120] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/javascript/out/javascriptMain
+[2018-01-19 21:37:42.193] [exthost1] [info] ExtensionService#_doActivateExtension vscode.typescript {"startup":false,"activationEvent":"onLanguage:javascript"}
+[2018-01-19 21:37:42.193] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/typescript/out/extension
+[2018-01-19 21:38:25.222] [exthost1] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"activationEvent":"onLanguage:typescript"}
+[2018-01-19 21:38:25.222] [exthost1] [info] ExtensionService#loadCommonJSModule /usr/share/code/resources/app/extensions/extension-editing/out/extension
